@@ -1,0 +1,4 @@
+*.npz
+*Solution*
+/dataset
+*.csv
