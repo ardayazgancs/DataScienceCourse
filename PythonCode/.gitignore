@@ -1,0 +1,6 @@
+*Solution*
+*.csv
+*.xml
+*.iml
+/.idea/*.xml
+/.idea/*.iml
